@@ -4,9 +4,6 @@
 
 Real-time energy monitoring system with predictive analytics, room-wise consumption tracking, and smart billing integration for Sri Lankan homes.
 
-## 🎯 One-Liner for GitHub
-Real-time home energy monitoring dashboard with predictive analytics, room-wise power tracking, and integrated CEB/LECO bill payments. Built with React, FastAPI, and IoT sensors.
-
 ---
 
 ## ✨ Key Features
